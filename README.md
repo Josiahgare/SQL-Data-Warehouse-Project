@@ -40,10 +40,10 @@ This project is licensed under the [MIT License](https://github.com/Josiahgare/S
 ---
 
 ### 🌟 About Me
-Hi there! I'm Josiah Oghenegare Obarhuakpor, also known as Joo. I’m a Data Engineer who likes to ensure that the soul of the business remains intact and functions optimally 24/7.
+Hi there! I'm **Josiah Oghenegare Obarhuakpor**, also known as **Joo**. I’m a dedicated **Data Engineer** who likes to ensure that the soul of the business remains intact and functions optimally 24/7.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-LinkedIn Website 
+[LinkedIn](https://www.linkedin.com/in/josiah-obarhuakpor) [Website](github.io/josiahgare)
 
-
+----
