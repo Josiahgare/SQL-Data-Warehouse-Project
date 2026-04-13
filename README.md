@@ -32,3 +32,18 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+---
+
+### 🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+---
+
+### 🌟 About Me
+Hi there! I'm Josiah Oghenegare Obarhuakpor, also known as Joo. I’m a Data Engineer who likes to ensure that the soul of the business remains intact and functions optimally 24/7.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+LinkedIn Website 
+
+
