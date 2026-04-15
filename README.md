@@ -6,6 +6,12 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
+## Project Architecture
+
+![Project Architecture](C:\Users\DELL\OneDrive\Documents\SQL Server Management Studio 22\DataArchitecture.drawio)
+
+---
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
