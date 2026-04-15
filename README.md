@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Project Architecture
 
-![Project Architecture](https://github.com/Josiahgare/SQL-Data-Warehouse-Project/blob/main/DataArchitecture.drawio.svg)
+![Project Architecture](https://github.com/Josiahgare/SQL-Data-Warehouse-Project/blob/main/design/DataArchitecture.drawio.svg)
 
 ---
 
