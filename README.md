@@ -8,8 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Project Architecture
 
-
-![Project Architecture](C:\Users\DELL\Downloads\SQL\DataArchitecture.drawio)
+![Project Architecture](https://github.com/Josiahgare/SQL-Data-Warehouse-Project/blob/main/DataArchitecture.drawio.svg)
 
 ---
 
