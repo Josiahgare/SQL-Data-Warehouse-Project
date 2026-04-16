@@ -8,7 +8,7 @@ Script Purpose:
 ==============================================================================================
  */
 
-IF OBJECT_ID ('bronze.crm_cust_info', 'U') IS NOT NULL -- checking and dropping any tablewith similar name
+IF OBJECT_ID ('bronze.crm_cust_info', 'U') IS NOT NULL -- checking and dropping any table with similar name
 	DROP bronze.crm_cust_info;  
 GO
   
