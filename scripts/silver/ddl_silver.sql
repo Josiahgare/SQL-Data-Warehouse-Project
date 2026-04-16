@@ -1,9 +1,14 @@
-/* Build Silver Layer 
-DDL - Create table  
-Add Metadata column: extra columnadded by Data Engineers that donot originate fromthe source data
-*/
+/*
+==============================================================================================
+DDL Script Create Silver Tables
+==============================================================================================
+Script Purpose:
+    This script creates tables in the 'silver' schema, dropping existing tables if they exist.
+    Run this script to re-define the DDL structure of 'silver' Tables
+==============================================================================================
+ */
 
-IF OBJECT_ID ('silver.crm_cust_info', 'U') IS NOT NULL -- checking and dropping any tablewith similar name
+IF OBJECT_ID ('silver.crm_cust_info', 'U') IS NOT NULL -- checking and dropping any table with similar name
 	DROP TABLE silver.crm_cust_info;  
 GO
   
