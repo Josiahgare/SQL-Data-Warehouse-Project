@@ -1,0 +1,16 @@
+# Ignore datasets
+datasets/
+*.csv
+*.svg
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore SQL Server backups
+*.bak
+
+# Ignore IDE settings
+.vscode/
